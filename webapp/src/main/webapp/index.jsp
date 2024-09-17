@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Welcome to Procorp Corporate trainings</h1>
-<h2>Username and password</h2>
+<h2>Enter the details</h2>
 </body>
 <body style="color:red;">
  <div class="container">
