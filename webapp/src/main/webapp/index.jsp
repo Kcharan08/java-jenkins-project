@@ -1,7 +1,12 @@
 <html>
 <body>
+<<<<<<< HEAD
 <h1>Welcome to Procorp</h1>
 <h2>Username and password</h2>
+=======
+<h1>Welcome to Procorp Corporate trainings</h1>
+<h2>Enter the details</h2>
+>>>>>>> 2067a25d0f3a210875c1dd03906c05c43f931d0a
 </body>
 <body style="color:red;">
  <div class="container">
